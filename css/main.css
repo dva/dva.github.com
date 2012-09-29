@@ -1,0 +1,11 @@
+html {}
+
+body {
+    background: #272822;
+    color: #B9A12D;
+    font: 14px/10px monospace;
+}
+
+#page-wrap {
+    padding: 25px;
+}

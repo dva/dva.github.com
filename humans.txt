@@ -1,0 +1,15 @@
+/* TEAM */
+Your title: Denis A.
+Site: 2citizen.com.
+Twitter: 2citizen.
+Location: Sumy, Ukraine.
+
+
+/* THANKS */
+Name: GitHub.
+
+/* SITE */
+Last update: 2012/09/29
+Standards: HTML5, CSS3.
+Components: .
+Software: Sublime Text 2 (sublimetext.com)
