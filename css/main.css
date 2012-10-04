@@ -4,6 +4,7 @@ body {
     background: #272822;
     color: #B9A12D;
     font: 14px/10px monospace;
+    white-space: nowrap;
 }
 
 a {
@@ -32,6 +33,12 @@ a {
 .links a {
     display: block;
     margin: 5px 0 25px;
+}
+
+.links .title {
+    padding: 0 0 15px;
+    text-transform: uppercase;
+    text-decoration: underline;
 }
 
 .social {}
