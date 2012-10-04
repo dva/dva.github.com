@@ -6,6 +6,29 @@ body {
     font: 14px/10px monospace;
 }
 
+a {
+    /*color: #B9A12D;*/
+    color: #FF9706;
+}
+
+
 #page-wrap {
     padding: 25px;
+}
+
+.gravatar-image {
+    margin-bottom: 15px;
+}
+
+.main-content {
+    margin-bottom: 50px;
+}
+
+.main-content p {}
+
+.links {}
+
+.links a {
+    display: block;
+    margin: 5px 0 25px;
 }
