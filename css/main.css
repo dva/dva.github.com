@@ -25,7 +25,9 @@ a {
 
 .main-content p {}
 
-.links {}
+.links {
+    margin: 0 0 50px;
+}
 
 .links a {
     display: block;
