@@ -7,7 +7,6 @@ body {
 }
 
 a {
-    /*color: #B9A12D;*/
     color: #FF9706;
 }
 
@@ -17,11 +16,11 @@ a {
 }
 
 .gravatar-image {
-    margin-bottom: 15px;
+    margin: 0 0 15px;
 }
 
 .main-content {
-    margin-bottom: 50px;
+    margin: 0 0 50px;
 }
 
 .main-content p {}
@@ -31,4 +30,10 @@ a {
 .links a {
     display: block;
     margin: 5px 0 25px;
+}
+
+.social {}
+
+.social .cell {
+    margin: 0 0 5px;
 }
