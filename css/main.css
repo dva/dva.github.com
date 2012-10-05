@@ -38,7 +38,7 @@ a {
 .links .title {
     padding: 0 0 15px;
     text-transform: uppercase;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
 }
 
 .social {}
