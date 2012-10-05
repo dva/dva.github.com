@@ -50,6 +50,12 @@ a {
     margin: 0 0 5px;
 }
 
+.copy {
+    position: fixed;
+    left: 25px;
+    bottom: 25px;
+}
+
 
 /* CANVAS */
 

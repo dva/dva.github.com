@@ -1,4 +1,8 @@
-$(function(){
+$(function() {
+
+    date = new Date();
+
+    $('.copy').html('&copy; 2011-' + date.getFullYear());
 
     var cMinItems = 1,
         cMaxItems = 100,
