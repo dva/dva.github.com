@@ -5,6 +5,7 @@ body {
     color: #B9A12D;
     font: 14px/10px monospace;
     white-space: nowrap;
+    position: relative;
 }
 
 a {
@@ -14,6 +15,8 @@ a {
 
 #page-wrap {
     padding: 25px;
+    position: absolute;
+    z-index: 10;
 }
 
 .gravatar-image {
@@ -45,4 +48,11 @@ a {
 
 .social .cell {
     margin: 0 0 5px;
+}
+
+
+/* CANVAS */
+
+canvas {
+    z-index: 1;
 }
