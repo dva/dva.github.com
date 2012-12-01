@@ -44,11 +44,15 @@ a {
     /*text-decoration: underline;*/
 }
 
-.social {}
+.social {
+    margin: 0 0 50px;
+}
 
 .social .cell {
     margin: 0 0 5px;
 }
+
+.dropbox {}
 
 .copy {
     position: fixed;
