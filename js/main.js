@@ -40,7 +40,7 @@ function canvasDraw(item, x, y, width, height, colorOne, colorTwo, colorThree, c
 
 }
 
-$.extend({
+jQuery.extend({
 
     random: function(X) {
         return Math.floor(X * (Math.random() % 1));
